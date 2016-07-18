@@ -1,0 +1,10 @@
+admin
+aswinda.pp@gmail.com		admin
+
+investor
+addinul.masri@gmail.com		investor
+investor@gmail.com		investor
+
+land owner
+guswandi@gmail.com		landowner
+landowner@gmail.com		landowner
